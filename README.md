@@ -6,3 +6,4 @@ Lab04 https://github.com/2303A510F7/aiml_10F7/blob/main/Untitled4.ipynb
 Lab05 https://github.com/2303A510F7/aiml_10F7/blob/main/Untitled5.ipynb
 Lab06 https://github.com/2303A510F7/aiml_10F7/blob/main/Untitled6.ipynb
 Lab07 https://github.com/2303A510F7/aiml_10F7/blob/main/untitled_07.ipynb
+Lab08 https://github.com/2303A510F7/aiml_10F7/blob/main/Untitled8.ipynb
