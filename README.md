@@ -10,3 +10,4 @@ Lab08 https://github.com/2303A510F7/aiml_10F7/blob/main/Untitled8.ipynb
 Lab09 https://github.com/2303A510F7/aiml_10F7/blob/main/lab_09.ipynb
 Lab10 https://github.com/2303A510F7/aiml_10F7/blob/main/Untitled_10.ipynb
 evaluation    https://github.com/2303A510F7/aiml_10F7/blob/main/aiml1.ipynb
+Final Lab Exam  https://github.com/2303A510F7/aiml_10F7/blob/main/2303A510F7_03_q(1).ipynb
