@@ -12,8 +12,3 @@ Lab10 https://github.com/2303A510F7/aiml_10F7/blob/main/Untitled_10.ipynb
 evaluation    https://github.com/2303A510F7/aiml_10F7/blob/main/aiml1.ipynb
 Final Lab Exam  https://github.com/2303A510F7/aiml_10F7/blob/main/2303A510F7_03_q(1).ipynb
 
-DATAMINIG
-
-lab01 datamining https://github.com/2303A510F7/aiml_10F7/blob/main/datamining_01.ipynb
-lab02 datamining https://github.com/2303A510F7/aiml_10F7/blob/main/Datamining_lab_02.ipynb
-
